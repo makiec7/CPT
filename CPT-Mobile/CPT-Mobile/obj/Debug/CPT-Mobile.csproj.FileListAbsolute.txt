@@ -1,0 +1,15 @@
+C:\Users\Makiec\Source\Repos\CPT\CPT-Mobile\CPT-Mobile\bin\Debug\CPT-Mobile.dll
+C:\Users\Makiec\Source\Repos\CPT\CPT-Mobile\CPT-Mobile\bin\Debug\CPT-Mobile.pdb
+C:\Users\Makiec\Source\Repos\CPT\CPT-Mobile\CPT-Mobile\bin\Debug\CPT_Mobile.CPT_Mobile.apk
+C:\Users\Makiec\Source\Repos\CPT\CPT-Mobile\CPT-Mobile\bin\Debug\CPT_Mobile.CPT_Mobile-Signed.apk
+C:\Users\Makiec\Source\Repos\CPT\CPT-Mobile\CPT-Mobile\obj\Debug\CPT-Mobile.csprojResolveAssemblyReference.cache
+C:\Users\Makiec\Source\Repos\CPT\CPT-Mobile\CPT-Mobile\obj\Debug\CPT-Mobile.dll
+C:\Users\Makiec\Source\Repos\CPT\CPT-Mobile\CPT-Mobile\obj\Debug\CPT-Mobile.pdb
+C:\Users\Makiec\Source\Repos\CPT\CPT-Mobile\CPT-Mobile\obj\Debug\android\bin\CPT_Mobile.CPT_Mobile.apk
+C:\Users\Makiec\Source\Repos\CPT\CPT-Mobile\CPT-Mobile\obj\Debug\res\layout\main.xml
+C:\Users\Makiec\Source\Repos\CPT\CPT-Mobile\CPT-Mobile\obj\Debug\res\values\strings.xml
+C:\Users\Makiec\Source\Repos\CPT\CPT-Mobile\CPT-Mobile\obj\Debug\res\drawable\icon.png
+C:\Users\Makiec\Source\Repos\CPT\CPT-Mobile\CPT-Mobile\obj\Debug\R.cs.flag
+C:\Users\Makiec\Source\Repos\CPT\CPT-Mobile\CPT-Mobile\obj\Debug\uploadflags.txt
+C:\Users\Makiec\Source\Repos\CPT\CPT-Mobile\CPT-Mobile\obj\Debug\CPT-Mobile.dll.mdb
+C:\Users\Makiec\Source\Repos\CPT\CPT-Mobile\CPT-Mobile\bin\Debug\CPT-Mobile.dll.mdb

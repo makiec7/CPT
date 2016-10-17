@@ -1,0 +1,4 @@
+CPT_Mobile.MainActivity, CPT-Mobile;md5095a883a747329ade6d71e0763a053a6.MainActivity
+CPT_Mobile.MainActivity, CPT-Mobile, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5095a883a747329ade6d71e0763a053a6.MainActivity
+CPT_Mobile.MainActivity;md5095a883a747329ade6d71e0763a053a6.MainActivity
+cpt_mobile.MainActivity;md5095a883a747329ade6d71e0763a053a6.MainActivity
