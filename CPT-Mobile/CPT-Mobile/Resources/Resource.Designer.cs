@@ -60,20 +60,23 @@ namespace CPT_Mobile
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050001
-			public const int autoCompleteTextView1 = 2131034113;
-			
 			// aapt resource value: 0x7f050004
-			public const int button1 = 2131034116;
+			public const int logButton = 2131034116;
 			
-			// aapt resource value: 0x7f050003
-			public const int editText1 = 2131034115;
+			// aapt resource value: 0x7f050001
+			public const int loginEdit = 2131034113;
 			
 			// aapt resource value: 0x7f050000
-			public const int textView1 = 2131034112;
+			public const int loginText = 2131034112;
+			
+			// aapt resource value: 0x7f050003
+			public const int passwordEdit = 2131034115;
 			
 			// aapt resource value: 0x7f050002
-			public const int textView2 = 2131034114;
+			public const int passwordText = 2131034114;
+			
+			// aapt resource value: 0x7f050005
+			public const int testView = 2131034117;
 			
 			static Id()
 			{
