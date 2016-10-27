@@ -1,0 +1,44 @@
+{% extends 'errors/base.html' %}
+
+{% block body %}
+
+    <div class="container-fluid">
+
+        {% if messages %}
+            <ul class="messages">
+                {% for message in messages %}
+                    <div class="col-md-offset-4 col-md-4" style="text-align: center;">
+                        <div class="alert alert-{{ message.tags }}">
+                            <span class="glyphicon glyphicon-ok" aria-hidden="true">  </span>
+                            {{ message }}
+                        </div>
+                    </div>
+
+                {% endfor %}
+            </ul>
+        {% endif %}
+
+        <table class="table table-striped table-hover">
+
+            <thead style='color: ghostwhite; background-color: cadetblue'>
+            <tr style="font-size: 13px;">
+                {% for field, _ in fields %}
+                    <th title="{{ field }}" style="max-width: 100px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">{{ field }}</th>
+                {% endfor %}
+            </tr>
+            </thead>
+            <tbody>
+
+            {% for error in all_errors %}
+                <tr data-toggle="collapse" data-target="#error{{ error.id }}" class="accordion-toggle">
+                    {% for name, value in error.get_fields %}
+                        <td title="{{ value }}" style="max-width: 100px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;">{{ value }}</td>
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+
+    </div>
+
+{% endblock %}
