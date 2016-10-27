@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="theme_toast_background">#ff448aff</color>
+  <style name="Theme.Custom" parent="@android:style/Theme.Toast">
+    <item name="android:windowBackground">?android:attr/colorBackground</item>
+    <item name="android:colorBackground">@color/theme_toast_background</item>
+  <item name="android:textColorPrimary">#ff888888</item></style>
+</resources>

@@ -99,6 +99,7 @@ class MonoPackageManager_Resources {
 	public static final String[] Assemblies = new String[]{
 		/* We need to ensure that "CPT-Mobile.dll" comes first in this list. */
 		"CPT-Mobile.dll",
+		"Xamarin.Controls.LoginScreen.Android.dll",
 		"System.Threading.dll",
 		"System.Runtime.dll",
 		"System.Collections.dll",

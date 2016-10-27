@@ -11,16 +11,70 @@ public final class R {
     public static final class attr {
     }
     public static final class drawable {
-        public static final int icon=0x7f020000;
+        public static final int alert=0x7f020000;
+        public static final int arrow=0x7f020001;
+        public static final int bg_login=0x7f020002;
+        public static final int button_login=0x7f020003;
+        public static final int button_login_pressed=0x7f020004;
+        public static final int button_login_selector=0x7f020005;
+        public static final int button_register=0x7f020006;
+        public static final int button_register_pressed=0x7f020007;
+        public static final int button_register_selector=0x7f020008;
+        public static final int button_reset=0x7f020009;
+        public static final int button_reset_pressed=0x7f02000a;
+        public static final int button_reset_selector=0x7f02000b;
+        public static final int divider_bottom=0x7f02000c;
+        public static final int divider_top=0x7f02000d;
+        public static final int edittext_bg_selector=0x7f02000e;
+        public static final int edittext_textcolor_selector=0x7f02000f;
+        public static final int icon=0x7f020010;
+        public static final int image_password=0x7f020011;
+        public static final int image_password_active=0x7f020012;
+        public static final int image_username=0x7f020013;
+        public static final int image_username_active=0x7f020014;
+        public static final int password_right_selector=0x7f020015;
+        public static final int textfield=0x7f020016;
+        public static final int textfield_active=0x7f020017;
+        public static final int username_right_selector=0x7f020018;
     }
     public static final class id {
-        public static final int textView1=0x7f050000;
+        public static final int bottomSpace=0x7f05000d;
+        public static final int confirmPasswordEdit=0x7f050011;
+        public static final int emailEdit=0x7f050010;
+        public static final int errorLayout=0x7f050014;
+        public static final int errorMessage=0x7f050015;
+        public static final int fake=0x7f050008;
+        public static final int forgotLayout=0x7f050006;
+        public static final int forgotText=0x7f050007;
+        public static final int logButton=0x7f050017;
+        public static final int loginButton=0x7f050005;
+        public static final int loginEdit=0x7f050003;
+        public static final int loginLayout=0x7f050001;
+        public static final int loginText=0x7f050002;
+        public static final int noAccountImage=0x7f05000a;
+        public static final int noAccountSection=0x7f050009;
+        public static final int noAccountText=0x7f05000b;
+        public static final int passwordEdit=0x7f050004;
+        public static final int passwordText=0x7f050016;
+        public static final int registerButton=0x7f05000c;
+        public static final int registerText=0x7f05000f;
+        public static final int resetButton=0x7f050013;
+        public static final int resetText=0x7f050012;
+        public static final int rootLayout=0x7f050000;
+        public static final int testView=0x7f050018;
+        public static final int titleLayout=0x7f05000e;
     }
     public static final class layout {
-        public static final int main=0x7f030000;
+        public static final int a_login=0x7f030000;
+        public static final int a_register=0x7f030001;
+        public static final int a_reset=0x7f030002;
+        public static final int a_validationerror=0x7f030003;
+        public static final int log_screen=0x7f030004;
+        public static final int main=0x7f030005;
     }
     public static final class string {
-        public static final int ApplicationName=0x7f040001;
-        public static final int Hello=0x7f040000;
+        public static final int ApplicationName=0x7f040002;
+        public static final int Hello=0x7f040001;
+        public static final int library_name=0x7f040000;
     }
 }

@@ -4,37 +4,10 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
     <TextView
-        android:text="Numer indeksu:"
+        android:text="test"
+        android:textSize="50px"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/loginText" />
-    <AutoCompleteTextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/loginEdit" />
-    <TextView
-        android:text="Hasło:"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/passwordText" />
-    <EditText
-        android:inputType="textPassword"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/passwordEdit" />
-    <Button
-        android:text="Zaloguj"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/logButton" />
-
-  <TextView
-    android:text=""
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/testView"
-    />
+        android:id="@+id/testView" />
 </LinearLayout>

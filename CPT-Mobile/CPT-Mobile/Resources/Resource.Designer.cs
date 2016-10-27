@@ -26,6 +26,58 @@ namespace CPT_Mobile
 		
 		public static void UpdateIdValues()
 		{
+			global::LoginScreen.Resource.Drawable.alert = global::CPT_Mobile.Resource.Drawable.alert;
+			global::LoginScreen.Resource.Drawable.arrow = global::CPT_Mobile.Resource.Drawable.arrow;
+			global::LoginScreen.Resource.Drawable.bg_login = global::CPT_Mobile.Resource.Drawable.bg_login;
+			global::LoginScreen.Resource.Drawable.button_login = global::CPT_Mobile.Resource.Drawable.button_login;
+			global::LoginScreen.Resource.Drawable.button_login_pressed = global::CPT_Mobile.Resource.Drawable.button_login_pressed;
+			global::LoginScreen.Resource.Drawable.button_login_selector = global::CPT_Mobile.Resource.Drawable.button_login_selector;
+			global::LoginScreen.Resource.Drawable.button_register = global::CPT_Mobile.Resource.Drawable.button_register;
+			global::LoginScreen.Resource.Drawable.button_register_pressed = global::CPT_Mobile.Resource.Drawable.button_register_pressed;
+			global::LoginScreen.Resource.Drawable.button_register_selector = global::CPT_Mobile.Resource.Drawable.button_register_selector;
+			global::LoginScreen.Resource.Drawable.button_reset = global::CPT_Mobile.Resource.Drawable.button_reset;
+			global::LoginScreen.Resource.Drawable.button_reset_pressed = global::CPT_Mobile.Resource.Drawable.button_reset_pressed;
+			global::LoginScreen.Resource.Drawable.button_reset_selector = global::CPT_Mobile.Resource.Drawable.button_reset_selector;
+			global::LoginScreen.Resource.Drawable.divider_bottom = global::CPT_Mobile.Resource.Drawable.divider_bottom;
+			global::LoginScreen.Resource.Drawable.divider_top = global::CPT_Mobile.Resource.Drawable.divider_top;
+			global::LoginScreen.Resource.Drawable.edittext_bg_selector = global::CPT_Mobile.Resource.Drawable.edittext_bg_selector;
+			global::LoginScreen.Resource.Drawable.edittext_textcolor_selector = global::CPT_Mobile.Resource.Drawable.edittext_textcolor_selector;
+			global::LoginScreen.Resource.Drawable.Icon = global::CPT_Mobile.Resource.Drawable.Icon;
+			global::LoginScreen.Resource.Drawable.image_password = global::CPT_Mobile.Resource.Drawable.image_password;
+			global::LoginScreen.Resource.Drawable.image_password_active = global::CPT_Mobile.Resource.Drawable.image_password_active;
+			global::LoginScreen.Resource.Drawable.image_username = global::CPT_Mobile.Resource.Drawable.image_username;
+			global::LoginScreen.Resource.Drawable.image_username_active = global::CPT_Mobile.Resource.Drawable.image_username_active;
+			global::LoginScreen.Resource.Drawable.password_right_selector = global::CPT_Mobile.Resource.Drawable.password_right_selector;
+			global::LoginScreen.Resource.Drawable.textfield = global::CPT_Mobile.Resource.Drawable.textfield;
+			global::LoginScreen.Resource.Drawable.textfield_active = global::CPT_Mobile.Resource.Drawable.textfield_active;
+			global::LoginScreen.Resource.Drawable.username_right_selector = global::CPT_Mobile.Resource.Drawable.username_right_selector;
+			global::LoginScreen.Resource.Id.bottomSpace = global::CPT_Mobile.Resource.Id.bottomSpace;
+			global::LoginScreen.Resource.Id.confirmPasswordEdit = global::CPT_Mobile.Resource.Id.confirmPasswordEdit;
+			global::LoginScreen.Resource.Id.emailEdit = global::CPT_Mobile.Resource.Id.emailEdit;
+			global::LoginScreen.Resource.Id.errorLayout = global::CPT_Mobile.Resource.Id.errorLayout;
+			global::LoginScreen.Resource.Id.errorMessage = global::CPT_Mobile.Resource.Id.errorMessage;
+			global::LoginScreen.Resource.Id.fake = global::CPT_Mobile.Resource.Id.fake;
+			global::LoginScreen.Resource.Id.forgotLayout = global::CPT_Mobile.Resource.Id.forgotLayout;
+			global::LoginScreen.Resource.Id.forgotText = global::CPT_Mobile.Resource.Id.forgotText;
+			global::LoginScreen.Resource.Id.loginButton = global::CPT_Mobile.Resource.Id.loginButton;
+			global::LoginScreen.Resource.Id.loginEdit = global::CPT_Mobile.Resource.Id.loginEdit;
+			global::LoginScreen.Resource.Id.loginLayout = global::CPT_Mobile.Resource.Id.loginLayout;
+			global::LoginScreen.Resource.Id.loginText = global::CPT_Mobile.Resource.Id.loginText;
+			global::LoginScreen.Resource.Id.noAccountImage = global::CPT_Mobile.Resource.Id.noAccountImage;
+			global::LoginScreen.Resource.Id.noAccountSection = global::CPT_Mobile.Resource.Id.noAccountSection;
+			global::LoginScreen.Resource.Id.noAccountText = global::CPT_Mobile.Resource.Id.noAccountText;
+			global::LoginScreen.Resource.Id.passwordEdit = global::CPT_Mobile.Resource.Id.passwordEdit;
+			global::LoginScreen.Resource.Id.registerButton = global::CPT_Mobile.Resource.Id.registerButton;
+			global::LoginScreen.Resource.Id.registerText = global::CPT_Mobile.Resource.Id.registerText;
+			global::LoginScreen.Resource.Id.resetButton = global::CPT_Mobile.Resource.Id.resetButton;
+			global::LoginScreen.Resource.Id.resetText = global::CPT_Mobile.Resource.Id.resetText;
+			global::LoginScreen.Resource.Id.rootLayout = global::CPT_Mobile.Resource.Id.rootLayout;
+			global::LoginScreen.Resource.Id.titleLayout = global::CPT_Mobile.Resource.Id.titleLayout;
+			global::LoginScreen.Resource.Layout.a_login = global::CPT_Mobile.Resource.Layout.a_login;
+			global::LoginScreen.Resource.Layout.a_register = global::CPT_Mobile.Resource.Layout.a_register;
+			global::LoginScreen.Resource.Layout.a_reset = global::CPT_Mobile.Resource.Layout.a_reset;
+			global::LoginScreen.Resource.Layout.a_validationerror = global::CPT_Mobile.Resource.Layout.a_validationerror;
+			global::LoginScreen.Resource.String.library_name = global::CPT_Mobile.Resource.String.library_name;
 		}
 		
 		public partial class Attribute
@@ -45,7 +97,79 @@ namespace CPT_Mobile
 		{
 			
 			// aapt resource value: 0x7f020000
-			public const int Icon = 2130837504;
+			public const int alert = 2130837504;
+			
+			// aapt resource value: 0x7f020001
+			public const int arrow = 2130837505;
+			
+			// aapt resource value: 0x7f020002
+			public const int bg_login = 2130837506;
+			
+			// aapt resource value: 0x7f020003
+			public const int button_login = 2130837507;
+			
+			// aapt resource value: 0x7f020004
+			public const int button_login_pressed = 2130837508;
+			
+			// aapt resource value: 0x7f020005
+			public const int button_login_selector = 2130837509;
+			
+			// aapt resource value: 0x7f020006
+			public const int button_register = 2130837510;
+			
+			// aapt resource value: 0x7f020007
+			public const int button_register_pressed = 2130837511;
+			
+			// aapt resource value: 0x7f020008
+			public const int button_register_selector = 2130837512;
+			
+			// aapt resource value: 0x7f020009
+			public const int button_reset = 2130837513;
+			
+			// aapt resource value: 0x7f02000a
+			public const int button_reset_pressed = 2130837514;
+			
+			// aapt resource value: 0x7f02000b
+			public const int button_reset_selector = 2130837515;
+			
+			// aapt resource value: 0x7f02000c
+			public const int divider_bottom = 2130837516;
+			
+			// aapt resource value: 0x7f02000d
+			public const int divider_top = 2130837517;
+			
+			// aapt resource value: 0x7f02000e
+			public const int edittext_bg_selector = 2130837518;
+			
+			// aapt resource value: 0x7f02000f
+			public const int edittext_textcolor_selector = 2130837519;
+			
+			// aapt resource value: 0x7f020010
+			public const int Icon = 2130837520;
+			
+			// aapt resource value: 0x7f020011
+			public const int image_password = 2130837521;
+			
+			// aapt resource value: 0x7f020012
+			public const int image_password_active = 2130837522;
+			
+			// aapt resource value: 0x7f020013
+			public const int image_username = 2130837523;
+			
+			// aapt resource value: 0x7f020014
+			public const int image_username_active = 2130837524;
+			
+			// aapt resource value: 0x7f020015
+			public const int password_right_selector = 2130837525;
+			
+			// aapt resource value: 0x7f020016
+			public const int textfield = 2130837526;
+			
+			// aapt resource value: 0x7f020017
+			public const int textfield_active = 2130837527;
+			
+			// aapt resource value: 0x7f020018
+			public const int username_right_selector = 2130837528;
 			
 			static Drawable()
 			{
@@ -60,23 +184,80 @@ namespace CPT_Mobile
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f050004
-			public const int logButton = 2131034116;
+			// aapt resource value: 0x7f05000d
+			public const int bottomSpace = 2131034125;
 			
-			// aapt resource value: 0x7f050001
-			public const int loginEdit = 2131034113;
+			// aapt resource value: 0x7f050011
+			public const int confirmPasswordEdit = 2131034129;
 			
-			// aapt resource value: 0x7f050000
-			public const int loginText = 2131034112;
+			// aapt resource value: 0x7f050010
+			public const int emailEdit = 2131034128;
 			
-			// aapt resource value: 0x7f050003
-			public const int passwordEdit = 2131034115;
+			// aapt resource value: 0x7f050014
+			public const int errorLayout = 2131034132;
 			
-			// aapt resource value: 0x7f050002
-			public const int passwordText = 2131034114;
+			// aapt resource value: 0x7f050015
+			public const int errorMessage = 2131034133;
+			
+			// aapt resource value: 0x7f050008
+			public const int fake = 2131034120;
+			
+			// aapt resource value: 0x7f050006
+			public const int forgotLayout = 2131034118;
+			
+			// aapt resource value: 0x7f050007
+			public const int forgotText = 2131034119;
+			
+			// aapt resource value: 0x7f050017
+			public const int logButton = 2131034135;
 			
 			// aapt resource value: 0x7f050005
-			public const int testView = 2131034117;
+			public const int loginButton = 2131034117;
+			
+			// aapt resource value: 0x7f050003
+			public const int loginEdit = 2131034115;
+			
+			// aapt resource value: 0x7f050001
+			public const int loginLayout = 2131034113;
+			
+			// aapt resource value: 0x7f050002
+			public const int loginText = 2131034114;
+			
+			// aapt resource value: 0x7f05000a
+			public const int noAccountImage = 2131034122;
+			
+			// aapt resource value: 0x7f050009
+			public const int noAccountSection = 2131034121;
+			
+			// aapt resource value: 0x7f05000b
+			public const int noAccountText = 2131034123;
+			
+			// aapt resource value: 0x7f050004
+			public const int passwordEdit = 2131034116;
+			
+			// aapt resource value: 0x7f050016
+			public const int passwordText = 2131034134;
+			
+			// aapt resource value: 0x7f05000c
+			public const int registerButton = 2131034124;
+			
+			// aapt resource value: 0x7f05000f
+			public const int registerText = 2131034127;
+			
+			// aapt resource value: 0x7f050013
+			public const int resetButton = 2131034131;
+			
+			// aapt resource value: 0x7f050012
+			public const int resetText = 2131034130;
+			
+			// aapt resource value: 0x7f050000
+			public const int rootLayout = 2131034112;
+			
+			// aapt resource value: 0x7f050018
+			public const int testView = 2131034136;
+			
+			// aapt resource value: 0x7f05000e
+			public const int titleLayout = 2131034126;
 			
 			static Id()
 			{
@@ -92,7 +273,22 @@ namespace CPT_Mobile
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Main = 2130903040;
+			public const int a_login = 2130903040;
+			
+			// aapt resource value: 0x7f030001
+			public const int a_register = 2130903041;
+			
+			// aapt resource value: 0x7f030002
+			public const int a_reset = 2130903042;
+			
+			// aapt resource value: 0x7f030003
+			public const int a_validationerror = 2130903043;
+			
+			// aapt resource value: 0x7f030004
+			public const int log_screen = 2130903044;
+			
+			// aapt resource value: 0x7f030005
+			public const int Main = 2130903045;
 			
 			static Layout()
 			{
@@ -107,11 +303,14 @@ namespace CPT_Mobile
 		public partial class String
 		{
 			
+			// aapt resource value: 0x7f040002
+			public const int ApplicationName = 2130968578;
+			
 			// aapt resource value: 0x7f040001
-			public const int ApplicationName = 2130968577;
+			public const int Hello = 2130968577;
 			
 			// aapt resource value: 0x7f040000
-			public const int Hello = 2130968576;
+			public const int library_name = 2130968576;
 			
 			static String()
 			{
